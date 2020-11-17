@@ -1,0 +1,29 @@
+ para inicializar o projeto:::
+    create-react-app gostack_level3_react --template=typescript
+
+configurar ferramentas que ajudam
+
+EditorConfig:  (extensao EditorConfig for VS Code )
+    se usa vscode, sublime ou outro arquivo, usando o editorConfig conseguimos padronizar
+https://www.notion.so/EditorConfig-5f494ae4b47248c1b16681ff74d6766c
+
+ESLint
+    (ctrl+p colar ext install dbaeumer.vscode-eslint)
+    yarn add eslint@6.8.0 -D
+    yarn eslint --init
+https://www.notion.so/ESLint-7e455a7ac78b424892329ee064feaf99
+
+
+Prettier
+https://www.notion.so/Prettier-e2c6a3ec188c4cce8890a3e16a0d6425
+
+Fazer transição de paginas
+    yarn add react-router-dom
+
+No react router dom usamos o Switch para conseguir gerir as transições de paginas.
+
+styled-components isola o css em componentes, assim nao temos problemas de muito codigo.
+yarn add styled-components
+yarn add @types/styled-components -D
+yarn add polished (permite trabalhar com cores)
+yarn add react-icons
