@@ -1,2 +1,3 @@
 # gostack_level3_react
-Project built in the third module of the rocketseat bootcamp.
+This project was developed to fulfill a challenge during the Rocketseat bootcamp.
+Using gitHub's api we developed a react application
